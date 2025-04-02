@@ -1,6 +1,7 @@
 # Music Downloader (Modified by Renny Yo, 2025.4)
 
 A Python script that uses Selenium to search for music on YouTube and downloads it using `yt_dlp`.
+ <br />
 The downloaded music files are saved in MP3 format with the best audio quality.
 
 ## Prerequisites
