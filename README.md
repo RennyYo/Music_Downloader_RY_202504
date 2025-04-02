@@ -17,11 +17,12 @@ You can install the dependencies using the following commands:
 pip install selenium
 pip install yt_dlp
 pip install ffmpeg
-
+```
 or
 
 ```bash
 pip install selenium yt_dlp ffmpeg
+```
 
 ## Execute steps on MacOS
 1.Open Terminal
@@ -29,25 +30,26 @@ pip install selenium yt_dlp ffmpeg
 2.Navigate to your project directory
 ```bash
 cd /path/to/your/project
-
+```
 3.Create the virtual environment
 ```bash
 python3 -m venv myenv
-
+```
 4.Activate the virtual environment
 ```bash
 source myenv/bin/activate
-
+```
 5.Install dependencies
 ```bash
 pip install selenium yt_dlp ffmpeg
-
+```
 6.Execute
 ```bash
 python3 Music_Downloader_RY_202504.py
-
+```
 7.Insert song name and see if it has been downloaded
 
 8.Deactivate the virtual environment
 ```bash
 deactivate
+```
