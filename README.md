@@ -25,7 +25,7 @@ or
 pip install selenium yt_dlp ffmpeg
 ```
 
-## Execute steps on MacOS
+## Executing steps on MacOS
 1.Open Terminal
 
 2.Navigate to your project directory
